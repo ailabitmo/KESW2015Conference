@@ -1,0 +1,16 @@
+---
+layout: frontpage
+title: Welcome
+---
+
+p=. *International Conference on Knowledge Engineering and Semantic Web*
+
+p=. September 30 - October 2, 2015
+
+p=. Moscow, Russia
+
+p<>. KESW 2015 will be the 6th conference in the series. KESW is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
+
+p<>. As last year, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in English.
+
+p<>. More information will be announced later, stay tuned and "follow us":https://twitter.com/keswconference on Twitter!

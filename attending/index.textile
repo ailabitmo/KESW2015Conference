@@ -1,0 +1,48 @@
+---
+layout: page
+title: Attending KESW 2014
+---
+
+h2. Student support
+
+We encourage undergraduate and postgraduate students to apply for the conference registration fee waiver (aka "free registration"). The number of free registrations is limited (and yet unknown) and they will be distributed among the students with accepted papers on the first come first serve basis. To apply, send an email to the PC chair ("Pavel Klinov":mailto:pavel.klinov@uni-ulm.de). Please attach a letter from the supervisor to justify the need of funding to attend the conference.
+
+Student support application deadline is the end of August 2014.
+
+h2. Venue
+
+p<>. KESW 2014 is expected to take place in the "IT Park":http://itpark-kazan.ru/en, a recently constructed high-tech center in Kazan. The park features a modern business center with a conference hall, a cafeteria, a business hotel, and various other facilities. It's easily accessible by public transportation.
+
+More information on the "following page":/venue/.
+
+h2. Travel information
+
+h3. By plane
+
+The "Kazan airport":http://www.kazan.aero/ operates direct flights from Moscow (up to 14 flights daily) and a number of international destinations including Frankfurt, Munich, Prague, Istanbul, and Tel Aviv. A round‐trip ticket for the 90‐minute flight from/to Moscow starts from 95 EUR (operated by Aeroflot Airlines, Siberia Airlines, Transaero Airlines and others). The prices for round‐trip tickets from major European airports, with connection flights from Moscow, range between 300 and 500 EUR. 
+
+Kazan airport is located 27 kilometers southeast of Kazan. A taxi ride from the airport to the city center takes about 30 minutes and costs 700 RUB (17 EUR). The "new Aeroexpress":http://aeroexpress.ru/en/regions/kazan.html railway line allows for a 20‐minute transfer from the airport terminal to the Kazan railway terminal. 
+
+h3. By train
+
+A number of low‐cost airlines operate flights to Moscow from various European cities, e.g. Brussels Airlines, TUIfly, Wind Jet, Meridiana, Germanwings, AirBerlin, AirBaltic, and Niki. So a combination of a flight to Moscow and an overnight train from Moscow to Kazan might be a cheaper option that gives the participants the additional opportunity to visit the Russian capital. A train trip from Moscow takes about 12 hours and arrives at Kazan’s railroad station which is located in the city center. One‐way sleeping‐carriage ticket costs about 2,500 RUB (60 EUR).
+
+h2. Visa information
+
+If necessary, the organizers are able to provide official invitation letters for already registered conference participants. The time needed for issuing such letters and their type varies for three categories of participants:
+
+h3. EU and US citizens
+
+For EU and US citizens issuing such letters depends on the organizers only and may take up to 1-2 weeks from the time of request (not counting the time of sending it by post, if necessary). In this case, participants need to apply for "Humanitarian Visa with scientific-technical purpose" at the Russian Consulate in the country of their residence.
+
+h3. Non-EU and non-US citizens requiring visa to travel to Russia
+
+For non-EU/non-US citizens the issued invitation letters need to be registered with the Russian Ministry of Foreign Affairs by the organizers and that may take from 2 to 4 weeks from the time of request (not counting the time of sending it by post, if necessary). In this case, participants need to apply for "Humanitarian Visa with scientific-technical purpose" at the Russian Consulate in the country of their residence.
+
+In order to request an official invitation letter, please, email the organizers.
+
+We recommend that non-EU/non-US visitors apply for tourist visas which do not require our official invitation letters since that often simplifies the application. In order to apply for a Tourist visa, each participant just needs to ask the hotel, where his/her accommodation is booked, to issue him/her a special tourist voucher (also sometimes called "Visa Support"), which is not the usual booking confirmation. Please, note that you _must_ explicitly request such a voucher from the hotel and it will not be given to you by default.
+
+To avoid uncertainty, participants are advised to apply for a visa as early as possible. In general, it is recommended that they apply for a Russian visa at least 6 weeks in advance.
+
+"List of Russian embassies/consulates abroad":http://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_Russia

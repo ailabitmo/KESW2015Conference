@@ -1,0 +1,32 @@
+---
+layout: page
+title: News
+published: true
+---
+
+h3. Thursday 25, 2014: Proceedings online
+
+The Springer CCIS volume of KESW 2014 proceedings is "online":http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-3-319-11715-7
+
+h3. July 21, 2014: STI International is a Gold Sponsor
+
+We are pleased to announce that STI International became a Gold Sponsor of the conference! Thank you STI International for their support!
+
+h3. July 7, 2014: RFBR Support
+
+We are grateful to the "Russian Foundation for Basic Research":http://www.rfbr.ru/rffi/eng/about for their generous support!
+
+h3. May 2, 2014: Deadline Extension
+
+Deadlines for submitting abstracts and full papers to the research, industry, and system description tracks have been extended to May 9th (abstracts) and May 16th (full papers). We look forward to your submissions!
+
+h3. April 16, 2014: Student Support
+
+We encourage undergraduate and postgraduate students to apply for the conference registration fee waiver (aka "free registration"). The number of free registrations is limited (and yet unknown) and they will be distributed among the students with accepted papers on the first come first serve basis. To apply, send an email to the PC chair ("Pavel Klinov":mailto:pavel.klinov@uni-ulm.de). Please attach a letter from the supervisor to justify the need of funding to attend the conference.
+
+Student support application deadline is end of August 2014.
+
+h3. March 09, 2014: Springer Proceedings
+
+We are happy to announce that the proceedings of KESW 2014 will be published in the Springer's "Communications in Computer and Information Science":http://link.springer.com/bookseries/7899 (CCIS) series. The papers will be abstracted/indexed by DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, and Scopus. This is similar to the "last year's proceedings":http://link.springer.com/book/10.1007%2F978-3-642-41360-5. 
+

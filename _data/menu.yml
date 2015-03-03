@@ -1,0 +1,48 @@
+---
+-
+  label: Home
+  path: /
+#-
+#  label: News
+#  path: /news/
+#-
+#  label: Register
+#  path: /register/
+#-
+#  label: Calls
+#  path: /calls/
+#  children:
+#    -
+#      label: Call for Research Track
+#      path: /calls/research-track-papers
+#    -
+#      label: Call for Industry Track
+#      path: /calls/industry-track-papers
+-
+  label: Organization
+  path: /organization/
+#-
+#  label: Program
+#  path: /program/
+#-
+#  label: Attending
+#  path: /attending/
+#  children:
+#    -
+#      label: About Kazan
+#      path: /aboutkazan/
+#    -
+#      label: Accommodation
+#      path: /accommodation/
+#    -
+#      label: Venue
+#      path: /venue/
+#-
+#  label: Keynote Speakers
+#  path: /keynotespeakers/
+-
+  label: Become a Sponsor
+  path: /becomeasponsor/
+-
+  label: Contacts
+  path: /contacts/

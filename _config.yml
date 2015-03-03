@@ -1,0 +1,7 @@
+name: KESW 2015 Conference
+url: http://2015.kesw.ru
+markdown: redcarpet
+highligther: pygments
+safe: true
+encoding: UTF-8
+exclude: []
