@@ -92,7 +92,7 @@ h3. SUBMISSION
 
 p<>. All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via Easychair.
 
-p<>. The submission page at Easychair is now "OPEN":https://easychair.org/conferences/?conf=kesw2015
+#p<>. The submission page at Easychair is now "OPEN":https://easychair.org/conferences/?conf=kesw2015
 
 h3. Size restrictions
 
