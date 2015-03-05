@@ -9,8 +9,8 @@
 #  label: Register
 #  path: /register/
 #-
-#  label: Calls
-#  path: /calls/
+label: Calls
+path: /calls/
 #  children:
 #    -
 #      label: Call for Research Track
