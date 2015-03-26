@@ -14,3 +14,12 @@ p<>. KESW 2015 will be the 6th conference in the series. KESW is a top internati
 p<>. As last year, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in English.
 
 p<>. More information will be announced later, stay tuned and "follow us":https://twitter.com/keswconference on Twitter!
+
+<hr/><br/>
+
+p=. Proceedings will be published by Springer in "CCIS":http://www.springer.com/series/7899 series
+
+<div style="text-align: center">
+    <a href="http://springer.com/"><img src="/resources/springer.jpg" width="200px"/></a>
+    <a href="http://www.springer.com/series/7899"><img src="/resources/CCIS-Logo.png" width="80px"/></a>
+</div>
