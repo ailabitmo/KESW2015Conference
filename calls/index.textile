@@ -3,36 +3,28 @@ layout: page
 title: Call for papers
 ---
 
-p<>. International Conference on Knowledge Engineering and Semantic Web (KESW) is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
+p<>. International Conference on Knowledge Engineering and Semantic Web (KESW) is an international event dedicated to discussing research results and directions in the areas related to Linked Data, knowledge representation and reasoning, and semantic technologies. Its aim is to bring together researchers, practitioners, and educators, in particular from the regions underrepresented at the major ISWC and ESWC conferences (e.g., Eastern and Northern Europe, ex-USSR, and the Middle East) to present and share ideas related to the Semantic Web, and popularize the area in these regions.
 
-bq. _As last year, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in *English*_.
+bq. As usual, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in English.
 
-h3. RESEARCH TRACK
+h3. RESEARCH AND INDUSTRY TRACK
 
-p<>. For the research track we welcome novel papers addressing theoretical, analytical or empirical aspects of research related to KR and Semantic Web. Topics of interest include but are not limited to:
+p<>. For the research track we welcome novel papers addressing theoretical, applied, and empirical aspects of research. Topics of interest include but are not limited to:
 
-*Ontology management*
+*Ontologies and controlled vocabularies*
 
-* Logical and philosophical foundations
-* Merging and alignment, modularity
-* Collaborative engineering and exchange
+* Logical and philosophical foundations of ontology management
+* Merging and alignment
+* Modularity, collaborative engineering and exchange
 * Using ontologies for modeling scientific knowledge
-
-*Knowledge Representation and Reasoning:*
-
-* Knowledge aquisition and management
-* Theory of automated reasoning
-* Practical algorithms and optimizations
-* Applications
 
 *Linked Data*
 
-* Publishing and integration
-* Querying
-* Scalability aspects
-* Open Data
+* Publishing and integrating
+* Querying and consuming
+* Linked Open Data
 
-*Natural Language Processing for Semantic Web*
+*Natural language processing and Semantic Web*
 
 * Information extraction and content analysis
 * Document clustering and classification
@@ -40,34 +32,39 @@ p<>. For the research track we welcome novel papers addressing theoretical, anal
 * Semantic-based information retrieval
 * Controlled natural languages
 
-*Semantic Databases*
+*Knowledge representation and reasoning*
+
+* Knowledge acquisition and management
+* Knowledge graphs
+* Theory of automated reasoning
+* Practical algorithms and optimizations
+* Applications
+
+*Databases for Semantic Web*
 
 * RDF and other NoSQL databases for managing Linked Data
 * Ontologies and databases
+* Data integration
 * Query answering
 
-*Other Topics (not limited to)*
+*Semantic technologies in industry* 
+
+* Reports on experience of using semantic technologies in industry
+* Challenges of practical deployments
+
+*Other Topics (not limited to)* 
 
 * Cognitive aspects of semantic technologies
 * Human Computer Interaction
 * Semantic Social Web
-* Trust, Security, and Privacy
-* Knowledge Visualization
-* Semantic Web in Education
+* Trust, security, and privacy
+* Knowledge and data visualization
 
-h3. INDUSTRY TRACK
+h3. OPEN SCIENCE AND EDUCATION TRACK
 
-p<>. For the industry track we solicit papers that describe practical experience of using Semantic Web or KR-related technologies in practical projects. Descriptions of industrial deployments and production usage are especially invited but papers with preliminary experience are also welcome (as long as the authors are able to demonstrate, preferably with some quantitative data, practical utility of Semantic Web technologies in a particular domain). Topics of interest include but are not limited to:
+p<>. This year we welcome papers concerned with providing or exploiting open access to scientific and educational resources. Contributions which explain how semantic technologies facilitate these tasks are especially solicited but this is not a strict requirement. Topics include:
 
-* Applications of Semantic Web technologies in various industrial domains.
-* Applications of Semantic Web technologies in community, government and semantic smart city.
-* Industrial trends related to the usage of Linked Data and Semantic Web technologies
-* Description and analysis of concrete problems and user requirements for applying Semantic Web technologies in specific industry domains
-* Analysis and evaluation of usability, assessment of pros and cons of using Semantic Web technologies in real-world scenarios including models of investment justifications (ROI)
-
-h3. EDUCATION TRACK
-
-p<>. For educational  track we welcome novel papers describing experience and analytics in opening and linking educational data as well as building applications for education based on semantic technologies. Topics of interest include but are not limited to:
+*Semantic Web and education*
 
 * Opening and linking educational data
 * Ontology models and semantic standards for educational data
@@ -75,50 +72,57 @@ p<>. For educational  track we welcome novel papers describing experience and an
 * Teaching semantic technologies
 * System descriptions and best practices in linked learning
 
-h3. System Descriptions
+*Open Science*
 
-p<>. We invite submissions which describe architecture, design, implementation, or experiments with existing systems which use semantic technologies. Preliminary reports describing research prototypes are welcome, too. The papers should explain how the use of semantic technologies helps to solve specific problems and/or is beneficial for the users. The authors will be given an opportunity to demonstrate their system during the poster and demo session at the conference. 
+* Open Access to Scientific Publications
+* Open Scientific Data
+* Infrastructure for Open Scientific Data
+* Open Research Methodology
 
-h3(#pp). Posters and Position Papers
+h3. SYSTEM DESCRIPTIONS
 
-p<>. In addition to oral paper presentations KESW 2014 encourages other forms of contributing to the conference, in particular, posters and position papers. 
+p<>. We invite submissions which describe architecture, design, implementation, or experiments with existing systems which use semantic technologies. Preliminary reports describing research prototypes are welcome, too. The papers should explain how the use of semantic technologies helps to solve specific problems and/or is beneficial for the users. The authors will be given an opportunity to demonstrate their system during the poster and demo session at the conference.
 
-* Posters is an opportunity to informally present your research approach and results during the poster session of the conference. It is great for discussing your research in free form with all attendants of the session. Lots of people will be  stopping by your poster and you will have a chance to talk to them, explain what you are doing, and get feedback. Of course, the number of people who will stop depends on how well you design your poster!
-* Position papers are means of presenting preliminary research ideas or proposals. They are particularly suitable for early stage PhD students who would like to discuss their ideas and get feedback before they go deep developing them. 
+h3. POSTERS AND POSITION PAPERS
 
-Submissions for both categories need to be 2 page abstracts describing the method and the results (for posters) or the preliminary ideas (position papers). Selected poster and position paper submissions will be allocated a short 5 minute talk slots during the conference.
+p<>. In addition to oral paper presentations KESW 2015 encourages other forms of contributing to the conference, in particular, posters and position papers.
+
+p<>. Posters is an opportunity to informally present your research approach and results during the poster session of the conference. It is great for discussing your research in free form with all attendants of the session. Lots of people will be stopping by your poster and you will have a chance to talk to them, explain what you are doing, and get feedback. Of course, the number of people who will stop depends on how well you design your poster!
+
+p<>. Position papers are means of presenting preliminary research ideas or proposals. They are particularly suitable for early stage PhD students who would like to discuss their ideas and get feedback before they go deep developing them.
+
+p<>. Submissions for both categories need to be 2 page abstracts describing the method and the results (for posters) or the preliminary ideas (position papers). Selected poster and position paper submissions will be allocated a short 5 minute talk slots during the conference.
 
 h3. SUBMISSION
 
-p<>. All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via Easychair.
+p<>. All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via "EasyChair":https://easychair.org/conferences/?conf=kesw2015.
 
-p<>. The submission page is now CLOSED
-
-h3. Size restrictions
+*Size restrictions*
 
 * Research, industry, and educational tracks: 15 pages including references.
 * System description papers: 10 pages including references.
-* Posters: 2 page abstract. 
+* Posters: 2 page abstract.
 
-bq. _We strongly encourage all authors to prepare their submissions according to the "Springer LNCS":http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0 format. This will be strictly enforced for all accepted papers. Contact "Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html if this becomes a show stopper_.
+bq.  We strongly encourage all authors to prepare their submissions according to the "Springer LNCS":http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0 format. This will be strictly enforced for all accepted papers. Contact Pavel Klinov if this becomes a show stopper.
 
 h3. IMPORTANT DATES
 
-Research papers, industry papers and system descriptions:
-* Abstract submission: -May 2nd, 2014- May 12th, 2014 
-* Full paper submission: -May 9th, 2014- May 16th, 2014 
-* Author notification: -June 20th, 2014- June 29th, 2014 
-* Camera-ready submission: -July 4th, 2014- July 11th, 2014
+*Full papers and system descriptions*
 
-Educational track papers:
-* Full paper submission: May 23rd, 2014
-* Author notification: June 20th, 2014
-* Camera-ready submission: July 4th, 2014
+* Abstract submission: May 4, 2015
+* Full paper submission: May 10, 2015
+* Author notification: June 21, 2015
+* Camera-ready submission: July 4, 2015
 
-Posters and position papers:
-* Abstract submission: August 29th, 2014
-* Author notification: September 7th, 2014
+*Posters and position papers*
+
+* Abstract submission: TBD
+* Author notification: TBD
+
+h3. PROCEEDINGS
+
+p<>. KESW proceedings are traditionally published in Springer's Communications in Computer and Information Science (CCIS) series. The papers will be abstracted/indexed by DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago, and Scopus.
 
 h3. PARTICIPATION
 
-At least one of the authors of accepted papers has to register for the conference and present the paper there for it to be included in the proceedings.
+p<>. At least one of the authors of accepted papers has to register for the conference and present the paper there for it to be included in the proceedings.
