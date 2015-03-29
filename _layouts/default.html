@@ -37,31 +37,42 @@
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
+
 	  ga('create', 'UA-49135393-3', 'auto');
 	  ga('send', 'pageview');
-	
+
 	</script>
     <script type="application/ld+json">
-	{
-		"@context" : "http://schema.org",
-		"@type" : "Event",
-		"name" : "International Conference on Knowledge Engineering and Semantic Web 2015",
-		"alternateName": "KESW 2015",
-		"url": "http://2015.kesw.ru/",
-		"duration": "P3D",
-		"startDate" : "2015-09-30",
-		"location" : {
-			"@type" : "Place",
-			"address" : {
-				"@type" : "PostalAddress",
-				"addressLocality" : "Moscow",
-				"addressCountry" : "Russia"
-			}
-		},
-		"image" : "http://2015.kesw.ru/resources/kesw_logo.png",
-		"description" : "KESW 2015 will be the 6th conference in the series. KESW is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions. As last year, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in English."
-	} </script>
+    {
+    		"@context" : "http://schema.org",
+    		"@type" : "Event",
+    		"name" : "International Conference on Knowledge Engineering and Semantic Web 2015",
+    		"alternateName": "KESW 2015",
+    		"url": "http://2015.kesw.ru/",
+    		"duration": "P3D",
+    		"startDate" : "2015-09-30T09:00",
+    		"location" : {
+    			"@type" : "Place",
+                "name" : "Компания Яндекс",
+                "telephone": "+7 (495) 739-70-00",
+    			"address" : {
+    				"@type" : "PostalAddress",
+                    "postalCode" : "119021",
+                    "streetAddress" : "ул. Льва Толстого, 16",
+    				"addressLocality" : "Moscow",
+    				"addressCountry" : "RU"
+    			}
+    		},
+            "offers" : {
+            	"@type" : "Offer",
+                "url" : "http://2015.kesw.ru/register/",
+                "price" : "50",
+                "priceCurrency": "EUR"
+            },
+    		"image" : "http://2015.kesw.ru/resources/kesw_logo.png",
+    		"description" : "KESW 2015 will be the 6th conference in the series. KESW is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions. As last year, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in English."
+    	}
+    </script>
 </head>
 <body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-2 node-type-page bg-gray-gradient color-palette-dark-rust header-font-sans-serif body-font-sans-serif sidebar-right">
 
@@ -73,9 +84,5 @@
 
 {% include footer.html %}
 
-<!--TEST-->
-
-<!--<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
--->
 </body>
 </html>
