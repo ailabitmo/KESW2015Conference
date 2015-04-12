@@ -37,3 +37,15 @@
 #program.legend {border:0;}
 #program.legend td {border: 0;}
 #program.legend tbody {border: 0;}
+
+/******************************************************************************/
+/*
+/* Program members
+/*
+/******************************************************************************/
+
+#pc td {
+    background-color: white !important;
+}
+#pc td.name {text-align: center; min-width: 30%; }
+#pc td.affiliation {text-align: center;}

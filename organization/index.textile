@@ -14,4 +14,17 @@ h3. Main organizers
 
 h3. Program committee
 
-TBA
+<table id="pc">
+{% for member in site.data.pc %}
+    <tr>
+        <td class="name">
+            {%if member.page %}
+                <a href="{{ member.page }}">{{ member.name }}</a>
+            {% else %}
+                {{ member.name }}
+            {% endif%}
+        </td>
+        <td class="affiliation">{{ member.affiliation }}</td>
+    </tr>
+{% endfor%}
+</table>
