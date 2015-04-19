@@ -1,0 +1,8 @@
+---
+layout: post
+title: Yuliya Tikhokhod and Markus Stocker are first confirmed keynote speakers
+---
+
+p<>. We are delighted to have Markus Stocker (University of Eastern Finland) and Yuliya Tikhokhod (Yandex) as the first two confirmed plenary speakers at KESW 2015.
+
+p<>. Details of their talks will be announced later, see the "keynote speakers":{{ site.url }}/keynotespeakers/ page for more information.
