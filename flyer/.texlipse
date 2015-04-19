@@ -1,5 +1,5 @@
 #TeXlipse project settings
-#Sun Mar 22 15:28:02 CET 2015
+#Sun Apr 19 19:16:53 CEST 2015
 markTmpDer=true
 builderNum=2
 outputDir=
@@ -7,8 +7,8 @@ makeIndSty=
 bibrefDir=
 outputFormat=pdf
 tempDir=tmp
-mainTexFile=kesw-info.tex
-outputFile=kesw-info.pdf
+mainTexFile=kesw-info-en.tex
+outputFile=kesw-info-en.pdf
 langSpell=ru
 markDer=true
 srcDir=
