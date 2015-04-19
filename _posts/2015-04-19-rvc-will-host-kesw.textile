@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Russian Venture Company will host KESW 2015
+---
+
+p<>. "RVC":http://rusventure.ru/en/, a government foundation supporting venture investments and innovative developments in Russia, will provide venure for KESW this year!
+
+p<>. We are extremely thankful to the RVC management and personally Natalya Smelkova (the head of the innovation support department) for their efforts. See the "Venue":{{ site.url }}/venue page for more information.
