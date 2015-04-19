@@ -4,7 +4,12 @@ title: News
 published: true
 ---
 
-h3. April 19, 2015: Markus Stocker and Yuliya Tikhokhod named as keynote speakers
+h3. April 19, 2015: The Russian Venture Company will host KESW 2015
+
+"RVC":http://rusventure.ru/en/, a government foundation supporting venture investments and innovative developments in Russia, will provide venure for KESW this year! We are extremely thankful
+to the RVC management and personally Natalya Smelkova (the head of the innovation support department) for their efforts. See the "Venue":http://2015.kesw.ru/venue page for more information.
+
+h3. April 18, 2015: Markus Stocker and Yuliya Tikhokhod named as keynote speakers
 
 We are delighted to have Markus Stocker (University of Eastern Finland) and Yuliya Tikhokhod (Yandex) as the first two confirmed plenary speakers at KESW 2015.
 Details of their talks will be announced later, see the "keynote speakers":http://2015.kesw.ru/keynotespeakers/ page for more information.

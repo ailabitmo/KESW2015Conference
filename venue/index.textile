@@ -3,14 +3,10 @@ layout: page
 title: Venue
 ---
 
-!http://2014.kesw.ru/resources/it_park.jpg!
+p<>. KESW 2015 will be hosted by the "Russian Venture Company":http://www.rusventure.ru/en/ (RVC). RVC is a government foundation dedicated to development of venture investments in Russia
+and financial support of research intensive industries.
 
-p<>. KESW 2014 is expected to take place in the "IT Park":http://itpark-kazan.ru/en, a recently constructed high-tech center in Kazan. The park features a modern business center with a conference hall, a cafeteria, a business hotel, and various other facilities. It's easily accessible by public transportation.
+p<>. The conference venue is expected to be the business center "Serebryany Gorod" on the bank of the Yauza river. The address is 29 Serebryanicheskaya nab., 109028, Moscow.
+Below is the area map. More detailed information can be found on the RVC's "contacts page":http://www.rusventure.ru/en/company/contacts/.
 
-h3. Address:
-
-"High Technology Technopark IT-park":http://itpark-kazan.ru/en
-52 Peterburgskaya st., Kazan, Tatarstan 420074
-Tel. +7 (843) 235-14-75, E-mail: it.park@tatar.ru
-
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2243.73339920737!2d49.133525999999996!3d55.780502!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x415ead0888e2f61d%3A0xc135cfd18efc3776!2sUlitsa+Peterburgskaya%2C+52%2C+Kazan%2C+Respublika+Tatarstan%2C+Russia!5e0!3m2!1sen!2s!4v1398232001790" width="400" height="300" frameborder="0" style="border:0"></iframe></center>
+!http://www.rusventure.ru/en/company/contacts/new-map-en.jpg!

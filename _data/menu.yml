@@ -41,6 +41,9 @@
   label: Keynote Speakers
   path: /keynotespeakers/
 -
+  label: Venue
+  path: /venue/
+-
   label: Become a Sponsor
   path: /becomeasponsor/
 -

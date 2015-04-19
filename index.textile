@@ -10,6 +10,9 @@ p=. September 30 - October 2, 2015
 p=. Moscow, Russia
 
 bq.. *Latest news:*
+
+The "Russian Venture Company":http://rusventure.ru/en will host KESW this year!
+
 Yuliya Tikhokhod and Markus Stocker are first confirmed "keynote speakers":http://2015.kesw.ru/keynotespeakers/
 
 p<>. KESW 2015 will be the 6th conference in the series. KESW is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
