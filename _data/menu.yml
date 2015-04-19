@@ -3,8 +3,8 @@
   label: Home
   path: /
 #-
-#  label: News
-#  path: /news/
+  label: News
+  path: /news/
 #-
 #  label: Register
 #  path: /register/
@@ -38,8 +38,8 @@
 #      label: Venue
 #      path: /venue/
 #-
-#  label: Keynote Speakers
-#  path: /keynotespeakers/
+  label: Keynote Speakers
+  path: /keynotespeakers/
 -
   label: Become a Sponsor
   path: /becomeasponsor/
