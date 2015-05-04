@@ -1,0 +1,6 @@
+---
+layout: post
+title: Abstract and paper submission deadlines extended
+---
+
+p<>. We have received a few requests to extend the deadlines, in particularly, because it's a holiday time in certain countries. All dates have been pushed one week forward. See the new dates in the "call for papers":{{ site.url }}/calls. Note that this is the first and the last extension.
