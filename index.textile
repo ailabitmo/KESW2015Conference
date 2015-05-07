@@ -11,11 +11,14 @@ p=. Moscow, Russia
 
 <blockquote>
     <p><strong>Latest news:</strong></p>
+    <ul class="news">
     {% for post in site.posts limit: 3 %}
-        <ul>
-            <li>{{ post.date | date: "%-d %B %Y" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-        </ul>
+        <li {%if forloop.index0 < 1 %}class="highlighted"{%endif%}>
+            {{ post.date | date: "%-d %B %Y" }}
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
     {% endfor %}
+    </ul>
 </blockquote>
 
 p<>. KESW 2015 will be the 6th conference in the series. KESW is a top international event taking place in Russia and dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions.
