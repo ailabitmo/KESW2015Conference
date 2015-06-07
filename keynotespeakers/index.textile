@@ -30,4 +30,16 @@ p<>. Yuliya is a project manager at Yandex in Moscow. Her research interests foc
 
 p<>. &nbsp;
 
-h3. One more speaker to be announced...
+p<>. &nbsp;
+
+p<>. &nbsp;
+
+h3. *"Erik Wilde":http://dret.net/netdret/*, Web of Things, Siemens Berkeley, USA
+
+p<>. *Title: TBD*
+
+p<>. Abstract: TBD
+
+!{width: 200px; float: left; margin: 10px;}/resources/erik.wilde.jpg!
+
+p<>. Erik is working on Web Technologies, Web Architecture, and Service Architecture, recently focusing on the Internet of Things and how it can be used as the foundation for the emerging Web of Things. His long standing interest is in structured data in decentralized scenarios. Focusing on Hypermedia, he's specifically interested in the connective fabric that allows services and applications to interact and evolve with as little coupling as possible. Working in academia for most of his life, Erik has held jobs in industry for the past three years, but still remains active in standardization activities (IETF and W3C) and various conferences.

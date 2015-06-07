@@ -1,0 +1,10 @@
+---
+layout: post
+title: Posters and position papers accepted on a rolling basis
+---
+
+p<>. We have decided to accept posters and position paper submissions on a rolling basis. This means that we will not set a specific deadline for such submissions and will be accepting them till late. If we get too many, we will make a special announcement and close the submission page. Thus submit early and often!
+
+p<>. There are two reasons for this. First, people require time to make travel arrangement, especially if they need a visa. Second, posters and position papers are not published in the main proceedings thus require only light reviewing. We will try to ensure a quick turnaround. Finally, the nature of this sort of submissions is to discuss an idea without much development so we encourage people to submit when they feel like it and not by a specific date.
+
+p<>. Please refer to the "Call for Papers":{{ site.url }}/calls/ for more information on posters and position papers.

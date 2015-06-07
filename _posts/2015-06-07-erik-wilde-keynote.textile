@@ -1,0 +1,8 @@
+---
+layout: post
+title: Erik Wilde confirmed as a keynote speaker
+---
+
+p<>. We are happy to announce that Erik Wilde from the Web of Things research group at Siemence Berkely, US, is a confirmed keynote speaker at KESW 2015.
+
+p<>. Details of their talks will be announced later, see the "keynote speakers":{{ site.url }}/keynotespeakers/ page for more information.
