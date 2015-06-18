@@ -34,15 +34,12 @@
 #    -
 #      label: Accommodation
 #      path: /accommodation/
-#    -
-#      label: Venue
-#      path: /venue/
 -
   label: Keynote Speakers
   path: /keynotespeakers/
--
-  label: Venue
-  path: /venue/
+#-
+#  label: Venue
+#  path: /venue/
 -
   label: Become a Sponsor
   path: /becomeasponsor/
