@@ -1,0 +1,8 @@
+---
+layout: post
+title: List  of accepted papers is online
+---
+
+p<>. The list of research papers as well as system descriptions is now "online":{{ site.url }}/program.
+
+p<>. The detailed program will be published on the same page some time in early September.
