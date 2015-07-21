@@ -27,9 +27,9 @@
 -
   label: Organization
   path: /organization/
-#-
-#  label: Program
-#  path: /program/
+-
+  label: Program
+  path: /program/
 #-
 #  label: Attending
 #  path: /attending/
