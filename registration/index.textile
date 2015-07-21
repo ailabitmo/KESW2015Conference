@@ -1,0 +1,13 @@
+---
+layout: page
+title: Register
+---
+
+h2. "Registration":{{ site.url }}/registration/main
+
+h2. "Visa Support":{{ site.url }}/registration/visa
+
+h2. "Payment Information":{{ site.url }}/registration/payment-info
+
+h2. "Registration FAQ":{{ site.url }}/registration/faq
+

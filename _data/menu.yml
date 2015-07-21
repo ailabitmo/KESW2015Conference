@@ -5,19 +5,25 @@
 #-
   label: News
   path: /news/
-#-
-#  label: Register
-#  path: /register/
+-
+  label: Registration
+  path: /registration/
+  children:
+    -
+      label: Register Here!
+      path: /registration/main
+    -
+      label: Visa Support
+      path: /registration/visa
+    -
+      label: Payment Information
+      path: /registration/payment-info
+    -
+      label: Registration FAQ
+      path: /registration/faq
 -
   label: Calls
   path: /calls/
-#  children:
-#    -
-#      label: Call for Research Track
-#      path: /calls/research-track-papers
-#    -
-#      label: Call for Industry Track
-#      path: /calls/industry-track-papers
 -
   label: Organization
   path: /organization/

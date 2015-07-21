@@ -1,0 +1,8 @@
+---
+layout: post
+title: Registration open
+---
+
+p<>. We have just opened "registration":{{ site.url }}/registration/main for KESW 2015! The early deadline is September 15.
+
+p<>. We have put together an extensive "FAQ":{{ site.url }}/registration/faq to cover your possible questions. "Visa support":{{ site.url }}/registration/visa is also available.

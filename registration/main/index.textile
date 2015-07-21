@@ -1,0 +1,30 @@
+---
+layout: page
+title: Register
+---
+
+h2. Registration Fees
+
+|_. Date of registration |_. Regular fee |_. Academic fee |_. Student fee |
+| Early | €100 | €75 | €50 |
+| Late/On-site | €200 | €150 | €100 |
+
+Both undergraduate and graduate (that is, those doing MSc or PhD) students qualify for the student fee.
+
+Employees of academic institutions and non-for-profit research institutions qualify for the academic fee.
+
+**Early conference registration deadline: September 15, 2015**
+
+h2. Visa support
+
+The company which handles registration also provides visa support. More details are available on the "Visa support":{{ site.url }}/registration/visa page.
+
+Please note the difference in visa regulations for EU and non-EU nationals.
+
+h2. Registration
+
+p<>. Registration is currently open, please use the link below. If you have any questions, please read the "FAQ":{{ site.url }}/registration/faq first and then use the "registration contact details":{{ site.url }}/contacts.
+
+If you have any difficulties getting help, please contact the conference organizers.
+
+p{font-size: 110%; text-align:center;}. >> "Registration page":http://reg.onlinereg.ru/registration/info?t_conf=362

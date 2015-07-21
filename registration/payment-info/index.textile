@@ -1,0 +1,27 @@
+---
+layout: page
+title: Payment information
+---
+
+All payments should be done from the personal on-line "registration":http://reg.onlinereg.ru/registration/info?t_conf=362 page. Accompanying persons requiring paid services (e.g. visa support) should be registered separately so that all payments can be done via their personal registration page.
+
+All payments (registration fee, hotel accommodation or additional services) can be done separately. 
+
+To return to the personal payment page to fulfil the rest of payment, the participant should use their login and password and enter the "Orders and Payment" section.
+
+Payments can be done in three different ways:
+
+h4. Payment by a credit card 
+
+You can pay with a credit either online or by faxing us the filled payment form.
+
+p<. For the former option please use the "Internet payment" button in the "Orders and Payment" section. Only VISA and Master Card credit cards are accepted. Note that we use a secure credit card Internet payment system ASSIST™ which protects your sensitive data.
+
+p<. For the latter option we also accept VISA (except Electron) and Master Card credit cards. Please use the "Agreement of Payment" button in the "Orders and Payment" section, print the form, fill it out and fax to +7 (812) 335 20 39. Upon receiving your Agreement of Payment the Conference Service Agency will charge the stated amount from the credit card and send you the confirmation. 
+
+h4. Payment by a bank transfer
+
+If you choose this option the invoice for the total amount for chosen services will be created automatically when you press the "Bank transfer" button. It is possible to pay in RUR, EURO or USD. You should print out the invoice and instruct your bank or accounts department to transfer the money. You should be responsibe for any associated fees. To confirm your payment, please send a copy of your bank transfer order to Congress Service Agency by e-mail: kesw-at-onlinereg.ru 
+
+
+If you have some problems with payments or need any assistance please do not hesitate to us at kesw-at-onlinereg.ru.
