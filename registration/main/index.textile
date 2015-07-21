@@ -19,7 +19,7 @@ h2. Visa support
 
 The company which handles registration also provides visa support. More details are available on the "Visa support":{{ site.url }}/registration/visa page.
 
-Please note the difference in visa regulations for EU and non-EU nationals.
+If you are an EU national, you're entitled for a special kind of Russian visa for scientific purposes. It cannot be obtained as a part of registration though because invitation letters can only be issued by academic institutions. We will publish information on how to get such a letter in the next few days. You can always resort to the general tourist visa option if you're short on time.
 
 h2. Registration
 
