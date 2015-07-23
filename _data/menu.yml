@@ -30,24 +30,24 @@
 -
   label: Program
   path: /program/
-#-
-#  label: Attending
-#  path: /attending/
-#  children:
-#    -
-#      label: About Kazan
-#      path: /aboutkazan/
-#    -
-#      label: Accommodation
-#      path: /accommodation/
 -
-  label: Keynote Speakers
+  label: Attending
+  path: /attending/
+  children:
+    -
+      label: Venue
+      path: /venue/
+    -
+      label: Accommodation
+      path: /accommodation/
+-
+  label: Keynotes
   path: /keynotespeakers/
 #-
 #  label: Venue
 #  path: /venue/
 -
-  label: Become a Sponsor
+  label: Sponsoring
   path: /becomeasponsor/
 -
   label: Contacts

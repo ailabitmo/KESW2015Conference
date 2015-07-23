@@ -3,11 +3,12 @@ layout: page
 title: Venue
 ---
 
-p<>. KESW 2015 will be hosted by the "Russian Venture Company":http://www.rusventure.ru/en/ (RVC). RVC is a government foundation dedicated to development of venture investments in Russia
-and financial support of research intensive industries.
+p<>. KESW 2015 will be hosted on the main campus of the "Moscow Institute of Steel and Alloys":http://en.misis.ru/ within the walking distance from the Moscow's city center. It's right next to the famous "Gorky park":http://www.park-gorkogo.com/eng/about/, the Moscow's main centrally located place for recreation, sport, and outdoor activities. A subway ride to the Kremlin and the Red Square will take around 15 minutes.
 
-p<>. The conference venue is expected to be the business center "Serebryany Gorod" on the bank of the Yauza river. The address is 29 Serebryanicheskaya nab., 109028, Moscow.
+p<>. The main University's building is located at the following address: Leninsky prospekt 4, 119049 Moscow. More details regarding the exact hall that will be used for the conference and how to get there will be available later.
 
-p<>. Below is the area map. More detailed information can be found on the RVC's "contacts page":http://www.rusventure.ru/en/company/contacts/.
+p<>. Below is the area map. We will soon publish information about suggested hotels on our "Accommodation":{{ site.url }}/accommodation page.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2245.459249782891!2d37.654094!3d55.75052399999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54af2761cadd7%3A0xa9926ce4970272c4!2z0KHQtdGA0LXQsdGA0Y_QvdGL0Lkg0JPQvtGA0L7QtA!5e0!3m2!1sru!2sru!4v1429463766569" width="100%" height="450" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2246.697775090067!2d37.60950589999998!3d55.729004249999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x0c58933de3bf8e90!2z0JzQmNCh0LjQoQ!5e0!3m2!1sen!2sus!4v1437683283930" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+

@@ -3,7 +3,7 @@
     page: http://www.dcs.bbk.ac.uk/~roman
     affiliation: Birkbeck, University of London, UK
 -
-    name: Amapali Zaveri
+    name: Amrapali Zaveri
     page: http://aksw.org/AmrapaliZaveri
     affiliation: AKSW Group, University of Leipzig, Germany
 -
@@ -140,11 +140,11 @@
 -
     name: Dmitry Kudryavtsev
     page: http://www.linkedin.com/profile/view?id=17582861
-    affiliation: Business Engineering Group & St.Petersburg State Polytechnical University
+    affiliation: St.Petersburg State University, St.Petersburg State Polytechnic University
 -
     name: Nikita Zhiltsov
     page: http://cll.niimm.ksu.ru/cms/lang/en_US/main/people/zhiltsov
-    affiliation: Kazan Federal University, Russia
+    affiliation: Kazan Federal University and Textocat, Russia
 -
     name: Marvin Schiller
     page: http://www.marvin-schiller.de/
@@ -161,3 +161,18 @@
     name: Ivan Ermilov
     page: http://aksw.org/IvanErmilov.html
     affiliation: AKSW Group, University of Leipzig, Germany
+-
+    name: Courtney Falk
+    affiliation: Purdue University, USA
+-
+    name: Lauren Stuart
+    affiliation: Purdue University, USA
+-
+    name: Héctor Pérez-Urbina
+    affiliation: Google, USA
+-
+    name: Mariano Rodriguez Muro
+    affiliation: IBM Research, USA
+-
+    name: Liubov Kovriguina
+    affiliation: SPbNRU ITMO, Russia

@@ -8,7 +8,7 @@ h3. Main organizers
 
 *General Chair:* Dmitry Mouromtsev, ITMO University, Russia
 
-*Program Chair:* "Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html, University of Ulm, Germany
+*Program Chair:* "Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html, Complexible Inc, USA
 
 *Open Science and Education Chair:* "Irina Radchenko":http://iradche.ru/, ITMO University, Russia
 
@@ -19,14 +19,26 @@ h3. Program committee
 <table id="pc">
 {% for member in site.data.pc %}
     <tr>
-        <td class="name">
+        <td class="name" width="30%">
             {%if member.page %}
                 <a href="{{ member.page }}">{{ member.name }}</a>
             {% else %}
                 {{ member.name }}
             {% endif%}
         </td>
-        <td class="affiliation">{{ member.affiliation }}</td>
+        <td class="affiliation" width="70%">{{ member.affiliation }}</td>
     </tr>
 {% endfor%}
 </table>
+
+h3. Additional reviewers
+
+* Ruslan Fayzrakhmanov, Technical University of Vienna, Austria
+* Mikhail Galkin, ITMO University, Russia
+* Gerhard Gossen, L3S Research Center, Germany
+* Alexander Kirillovich, Kazan Federal University and Textocat, Russia
+* Edgard Marx, University of Leipzig, Germany
+* Muhammad Saleem, University of Leipzig, Germany
+* Vadim Savenkov, Technical University of Vienna, Austria
+* Saeedeh Shekarpour, University of Bonn, Germany
+* Veronika Thost, Technical University of Dresden, Germany

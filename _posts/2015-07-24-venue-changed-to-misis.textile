@@ -1,0 +1,8 @@
+---
+layout: post
+title: Venue change
+---
+
+p<>. It has been decided to change the location to the main campus of the "Moscow University of Steel and Alloys":http://en.misis.ru/ (aka MISIS) in the city center of Moscow.
+
+p<>. More information is available at the "Venue":{{ site.url }}/venue page.
