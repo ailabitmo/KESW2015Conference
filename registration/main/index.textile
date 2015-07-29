@@ -9,22 +9,22 @@ h2. Registration Fees
 | Early | €100 | €75 | €50 |
 | Late/On-site | €200 | €150 | €100 |
 
-Both undergraduate and graduate (that is, those doing MSc or PhD) students qualify for the student fee.
+p<>. Both undergraduate and graduate (that is, those doing MSc or PhD) students qualify for the student fee.
 
-Employees of academic institutions and non-for-profit research institutions qualify for the academic fee.
+p<>. Employees of academic institutions and non-for-profit research institutions qualify for the academic fee.
 
 **Early conference registration deadline: September 15, 2015**
 
 h2. Visa support
 
-The company which handles registration also provides visa support. More details are available on the "Visa support":{{ site.url }}/registration/visa page.
+p<>. The company which handles registration also provides visa support. More details are available on the "Visa support":{{ site.url }}/registration/visa page.
 
-If you are an EU national, you're entitled for a special kind of Russian visa for scientific purposes. It cannot be obtained as a part of registration though because invitation letters can only be issued by academic institutions. We will publish information on how to get such a letter in the next few days. You can always resort to the general tourist visa option if you're short on time.
+p<>. If you are an EU national, you're entitled for a special kind of Russian visa for scientific purposes. It cannot be obtained as a part of registration though because invitation letters can only be issued by academic institutions. We will publish information on how to get such a letter in the next few days. You can always resort to the general tourist visa option if you're short on time.
 
 h2. Registration
 
 p<>. Registration is currently open, please use the link below. If you have any questions, please read the "FAQ":{{ site.url }}/registration/faq first and then use the "registration contact details":{{ site.url }}/contacts.
 
-If you have any difficulties getting help, please contact the conference organizers.
+p<>. If you have any difficulties getting help, please contact the conference organizers.
 
-p{font-size: 110%; text-align:center;}. >> "Registration page":http://reg.onlinereg.ru/registration/info?t_conf=362
+p{font-size: 110%; text-align:center;}. >> "Registration page":http://reg.onlinereg.ru/registration/info?t_conf=362 <<

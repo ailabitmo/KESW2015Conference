@@ -3,4 +3,95 @@ layout: page
 title: Accommodation
 ---
 
-h3. Suggested hotels will appear in the next few days.
+p<>. Hotel accommodation for conference participants is booked in hotels "Warsaw":#hotelwarsaw and "Sputnik":#hotelsputnik.
+
+p<>. For hotel booking please proceed to online registration system. The period of guaranteed hotel reservation is 29th September - 3d October, 2015.
+
+p<>. If you want to book accommodation for earlier or later dates, or the room of higher category, please contact the project manager: "kesw@onlinereg.ru":mailto:kesw@onlinereg.ru
+
+p<>. In order to guarantee reservation, the room should be booked and paid in advance not later than 1st September, 2015.
+
+p=. Special rates for participants of KESW 2015*
+
+|_. Hotel |_. Single room, ₽ |_. Double/Twin room, ₽ |
+| "Hotel Warsaw":#hotelwarsaw, standard | 5200 | 6000 |
+| "Hotel Sputnik":#hotelsputnik, standard | 4800 | 5800 |
+
+*In rubles per night, including breakfast and tax.
+
+p<>. To book and pay for accommodation, kindly use the online registration system:
+
+* Enter your login and password;
+* Proceed to the section "Hotel accommodation"
+* Choose the hotel and room category;
+* Fill in the check-in and check-out dates;
+* Click "Submit"
+* Proceed to the section "Orders and payments"
+* Choose the type of payment;
+* Print the invoice;
+
+p<>. Hotel booking confirmation will be sent to your email after the payment is received.
+
+p<>. For double/twin rooms shared with an accompanying person, please indicate the name of the accompanying person in the comments field.
+
+p<>. If you wish to share a twin room with a colleague, please:
+
+* Book the room from one of your personal areas;
+* Write the name of your room-fellow in the comment box;
+* In case you want to halve the price between you and your room-fellow, please inform the manager by email;
+* Please do NOT book the second twin room.
+
+p<>. Please note that both of you should be registered in the online registration system, and the dates of your stay must be the same.
+
+<hr/>
+
+h3. *(#hotelwarsaw)"Hotel Warsaw":http://www.hotelwarsaw.ru*
+
+"2/1, Leninsky prospekt":https://www.google.ru/maps/place/Leninskiy+pr.,+2%2F1,+Moskva,+119049/@55.7296399,37.6110679,17z/data=!3m1!4b1!4m2!3m1!1s0x46b54b0f12d96ddd:0x43d89acd9b27f2ad?hl=en
+
+p<>. Located on the Garden Ring next to Oktiabrskaya metro station (circular line), Warsaw hotel is at a short walk from the city center, within easy access to the city’s famous landmarks such as Red Square and the Kremlin. Three minutes walk for an unforgettable amusements of Gorky Park with its attractions and pleasure boats or enjoy artworks at Tretiakov Gallery branch. Easy and quick access from or to any Moscow International Airport or train station. Each room offers spectacular panoramic views across the city to the biggest Lenin’s monument, to Leninsky prospect, to the Garden ring.
+
+Special rates for the conference participants:
+
+|_. Room category |_. Single |_. Double/Twin |_. Place in twin |
+| <center>Standard room 
+(18/24 sq.m., 1 double or 2 twin beds, desk, armchair, refrigerator, free Wi-Fi, hair dryer, TV, telephone)</center> | 5200 | 6000 | 3000 |
+
+p<>. Check-in and check-out time: 12:00. If you want to check in before 12:00 or stay after check-out time, you should pay extra price of one night stay.
+
+h3. *(#hotelsputnik)"Hotel Sputnik":http://www.hotelsputnik.ru*
+
+"38, Leninsky prospekt":https://www.google.ru/maps/place/Leninskiy+pr.,+38,+Moskva,+119334/@55.704478,37.571772,17z/data=!3m1!4b1!4m2!3m1!1s0x46b54c82f5b6923d:0xf29abcaf64d341c7?hl=en
+
+p<>. Hotel "Sputnik" is situated on Leninsky prospect, nearby from metro station «Leninsky Prospect» (973m). In foot availability from hotel there are the central office of the Sberbank, Academy of sciences, the pharmaceutical company «Solvej Farma», Moscow Business School. Near to hotel there are a Red Square (5 km), sport centre "Luzhniki", the Moscow State University, Neskuchny garden, Gorky Park.
+
+Special rates for the conference participants:
+
+|_. Room category |_. Single |_. Double/Twin |_. Place in twin |
+| <center>Standard room 
+(18/24 sq.m., 1 double or 2 twin beds, desk, armchair, refrigerator, free Wi-Fi, hair dryer, TV, telephone)</center> | 4800 | 5800 | 2900 |
+
+p<>. Check-in and check-out time: 12:00. If you want to check in before 12:00, you should pay extra price of one night stay. If you want  to stay after check-out time (till 0:00), you should pay 50% of the price of one night stay.
+
+<hr/>
+
+*CANCELLATION TERMS:*
+
+_Hotel Warsaw:_
+
+In case of cancellation before and on September 18, 2015 no fee is charged, the whole sum except banking costs is refunded. In case of cancellation from September 19 50% cost of the whole stay is charged.
+
+_Hotel Sputnik:_
+
+In case of cancellation before and on September 14, 2015 no fee is charged, the whole sum except banking costs is refunded. In case of cancellation from September 15 the cost of 1 night stay is charged.
+
+All refunds are made within 2 weeks after the conference. All banking costs are covered by the participant.
+
+Cancellations are accepted ONLY in writing by kesw@onlinereg.ru 
+
+If you have questions regarding booking accommodation or any other service, please do not hesitate to contact the project manager: 
+
+Ms. Elizaveta Shur 
+email: kesw@onlinereg.ru 
+Phone: +7 (812) 335 20 55 (ext. 205)
+Fax: +7 (812) 335 20 39
