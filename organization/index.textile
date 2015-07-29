@@ -6,13 +6,13 @@ published: true
 
 h3. Main organizers
 
-*General Chair:* Dmitry Mouromtsev, ITMO University, Russia
+*General Chair:* Dmitry Mouromtsev, "ITMO University":http://en.ifmo.ru/, Russia
 
 *Program Chair:* "Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html, Complexible Inc, USA
 
-*Open Science and Education Chair:* "Irina Radchenko":http://iradche.ru/, ITMO University, Russia
+*Open Science and Education Chair:* "Irina Radchenko":http://iradche.ru/, "ITMO University":http://en.ifmo.ru/, Russia
 
-*Publicity Chair:* "Maxim Kolchin":http://kolchinmax.ru, ITMO University, Russia
+*Publicity Chair:* "Maxim Kolchin":http://kolchinmax.ru, "ITMO University":http://en.ifmo.ru/, Russia
 
 h3. Program committee
 

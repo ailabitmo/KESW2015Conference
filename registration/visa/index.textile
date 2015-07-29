@@ -3,28 +3,28 @@ layout: page
 title: Visa support
 ---
 
-p<. *Foreign citizens usually need a visa to enter Russia*
+p<>. *Foreign citizens usually need a visa to enter Russia*
 
-p<. The Conference Service Agency Rustour provides participants with tourist visa support documents (invitation and hotel voucher) only for the dates of the conference +/- a few days, but not more than 14 days in total.
+p<>. The Conference Service Agency Rustour provides participants with tourist visa support documents (invitation and hotel voucher) only for the dates of the conference +/- a few days, but not more than 14 days in total.
 
-p<. To get the visa support documents you need to: 
+p<>. To get the visa support documents you need to: 
 
-# register on-line.
-# book hotel accommodation through the system of online registration and to pay for it OR book it on your own and to send us the hotel booking confirmation.
-# go to the "Visa support" section during "registration":{{ site.url }}/registration/main and fill in the data required. 
+* register on-line.
+* book hotel accommodation through the system of online registration and to pay for it OR book it on your own and to send us the hotel booking confirmation.
+* go to the "Visa support" section during "registration":{{ site.url }}/registration/main and fill in the data required. 
 
 p<. 
 
-p<. You can choose whether you need a fax/scanned copy or the original. It depends on the country where you apply for visa. Please check the Comments field at the "Visa support" section.
+p<>. You can choose whether you need a fax/scanned copy or the original. It depends on the country where you apply for visa. Please check the Comments field at the "Visa support" section.
 
-p<. In case the original visa support documents are requested: 
+p<>. In case the original visa support documents are requested: 
 
 * you should pay for the invitation voucher delivery (express mail expenses) through the online registration as well;
 * please send us the postal address where you'd like the documents to be delivered and your mobile phone number.
 
 p<. 
 
-p<. Please note the following:
+p<>. Please note the following:
 
 * in order to obtain Russian visa your passport must be valid for at least 6 months after the date of your departure from Russia; 
 * according to the Russian migration law concerning the registration procedure of foreign citizens on the territory of Russia, the registration is taken care of by your hotel. That's why hotels take registration fee (usualyy 5-10 EUR per person) that is to be paid by the guest directly to the hotel cash desk upon arrival;
@@ -33,19 +33,19 @@ p<. Please note the following:
 
 p<. 
 
-p<. Citizens of Abkhazia, Argentina, Armenia, Azerbaijan, Belarus, Brazil, Chile, Colombia, Ecuador, Guatemala, Israel, Kazakhstan, Kyrgyzstan, Macau, Nicaragua, Peru, South Ossetia, 
+p<>. Citizens of Abkhazia, Argentina, Armenia, Azerbaijan, Belarus, Brazil, Chile, Colombia, Ecuador, Guatemala, Israel, Kazakhstan, Kyrgyzstan, Macau, Nicaragua, Peru, South Ossetia, 
 Tajikistan, Uzbekistan, Ukrain, Uruguay, and Venezuela can enter the Russian Federation without visa;
 
-p<. Citizens of Hong Kong can enter the Russian Federation without visa if the period of stay is no more then 14 days.
+p<>. Citizens of Hong Kong can enter the Russian Federation without visa if the period of stay is no more then 14 days.
 
-p<. Citizens of Cuba, Montenegro, Serbia (a biometric passport is required), Thailand, and Turkey can enter the Russian Federation without visa if the period of stay is no more then 30 days.
+p<>. Citizens of Cuba, Montenegro, Serbia (a biometric passport is required), Thailand, and Turkey can enter the Russian Federation without visa if the period of stay is no more then 30 days.
 
-p<. Citizens of Bosnia and Herzegovina, Croatia, and Macedonia can enter the Russian Federation without visa but should have original visa support documents (invitation and voucher) with them.
+p<>. Citizens of Bosnia and Herzegovina, Croatia, and Macedonia can enter the Russian Federation without visa but should have original visa support documents (invitation and voucher) with them.
 
-p<. For more information please contact the embassy of the Russian Federation in your country of residence.
+p<>. For more information please contact the embassy of the Russian Federation in your country of residence.
 
-p<. Important guidelines to proper filling in your visa application will be sent to you together with the visa support documents.
+p<>. Important guidelines to proper filling in your visa application will be sent to you together with the visa support documents.
 
-p<. When you get the invitation letter, please, check the information carefully. In case of any mistakes please contact us.
+p<>. When you get the invitation letter, please, check the information carefully. In case of any mistakes please contact us.
 
-p<. We look forward to welcoming you in Moscow!
+We look forward to welcoming you in Moscow!
