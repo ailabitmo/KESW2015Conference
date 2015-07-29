@@ -5,7 +5,7 @@ title: Accommodation
 
 p<>. Hotel accommodation for conference participants is booked in hotels "Warsaw":#hotelwarsaw and "Sputnik":#hotelsputnik.
 
-p<>. For hotel booking please proceed to online registration system. The period of guaranteed hotel reservation is 29th September - 3d October, 2015.
+p<>. For hotel booking please proceed to "online registration system":http://reg.onlinereg.ru/registration/info?t_conf=362. The period of guaranteed hotel reservation is 29th September - 3d October, 2015.
 
 p<>. If you want to book accommodation for earlier or later dates, or the room of higher category, please contact the project manager: "kesw@onlinereg.ru":mailto:kesw@onlinereg.ru
 
@@ -19,7 +19,7 @@ p=. Special rates for participants of KESW 2015*
 
 *In rubles per night, including breakfast and tax.
 
-p<>. To book and pay for accommodation, kindly use the online registration system:
+p<>. To book and pay for accommodation, kindly use "the online registration system":http://reg.onlinereg.ru/registration/info?t_conf=362:
 
 * Enter your login and password;
 * Proceed to the section "Hotel accommodation"
@@ -41,7 +41,7 @@ p<>. If you wish to share a twin room with a colleague, please:
 * In case you want to halve the price between you and your room-fellow, please inform the manager by email;
 * Please do NOT book the second twin room.
 
-p<>. Please note that both of you should be registered in the online registration system, and the dates of your stay must be the same.
+p<>. Please note that both of you should be registered in "the online registration system":http://reg.onlinereg.ru/registration/info?t_conf=362, and the dates of your stay must be the same.
 
 <hr/>
 
