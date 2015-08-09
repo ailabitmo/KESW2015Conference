@@ -32,6 +32,20 @@ h3. Accepted system descriptions
 * Anton Kolonin:	_Aigents: Adaptive Personal Agents for Social Intelligence_
 * Anton Kolonin:	_Distributed Knowledge Engineering and Evidence-Based Knowledge Representation in Multi-Agent Systems_
 
+h3. Accepted posters and position papers
+
+p<>. Note: the call is still open so the list is incomplete. Also some posters accompany papers accepted for oral presentation.
+
+* Yuriy Milov and Alex Shkotin:	_Controlled Russian Language_
+* Gerhard Wohlgenannt and Stefan Belk:	_A Trend Detection Platform Based on Ontology Learning_
+* Qingliang Miao, Lu Fang, Ruiyu Fang, Yao Meng and Jun Sun:	_Enhancing Academic Event Recommendation with Linked Data_
+* Ruiyu Fang, Qingliang Miao, Lu Fang and Yao Meng:	_Linked Data Enrichment: A Case Study on Researcher Data Complement_
+* Sergey Parinov, Victor Lyapunov, Roman Puzyrev and Mikhail Kogalovsky:	_Semantically Enrichable Research Information System_
+* Hadia Riaz:	_Towards Optimization through Ontology, a Contextually Indexed Search Engine_
+* Anton Kolonin: _Adaptive Experiential Learning for Business Intelligence Agents	Information_
+* Anton Kolonin: _Aigents - Adaptive Personal Agents for Social Intelligence_
+* Anton Kolonin: _Distributed Knowledge Engineering and Evidence-based Knowledge Representation in Multi-Agent Systems	Information_
+
 
 
 
