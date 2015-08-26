@@ -6,9 +6,9 @@ published: true
 
 h3. *"Markus Stocker":http://markusstocker.com*, University of Eastern Finland, Finland
 
-p<>. *Title: TBD*
+p<>. *Title: Knowledge-based environmental research infrastructure with semantic web technologies*
 
-p<>. Abstract: TBD
+p<>. _The talk aims at underscoring potential roles of semantic web technologies in environmental science, in particular for environmental research infrastructures that build on sensor networks. Compared to bioinformatics, where semantic web technologies have long found application in well-known projects, the adoption of the technologies in environmental science is arguably less prominent--despite having similar potential. We will discuss examples for how semantic web technologies are utilized in environmental science and focus on their potential role in software infrastructure for environmental research that relies on data acquired from sensor networks. To unleash the potential, researchers and developers in knowledge engineering and semantic web and earth and environmental scientists are encouraged to continue seeking interdisciplinary dialogue and further solidify collaboration_.
 
 !{width: 200px; float: left; margin: 10px;}/resources/markus.stocker.jpg!
 
@@ -36,9 +36,9 @@ p<>. &nbsp;
 
 h3. *"Erik Wilde":http://dret.net/netdret/*, Web of Things, Siemens Berkeley, USA
 
-p<>. *Title: TBD*
+p<>. *Title: What WoT means for the Web*
 
-p<>. Abstract: TBD
+p<>. _Looking back at the Internet, arguably the biggest impact on how the Internet evolved and developed was the invention of the Web. It can be argued that the nascent Internet of Things (IoT) might take the same trajectory, with first seeing limited and isolated success in specific domains, and then taking off exponentially once those limitations are removed by  making the step from IoT to the Web of Things (WoT). This speculative talk is exploring the ways in which IoT and the Web may change once WoT becomes a reality. Big Data's 4V (volume, velocity, variety, and variability) provide good starting points to explore the ways in which the WoT Web may have to evolve in the IoT age._
 
 !{width: 200px; float: left; margin: 10px;}/resources/erik.wilde.jpg!
 
