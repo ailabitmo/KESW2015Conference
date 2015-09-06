@@ -46,6 +46,7 @@ p<>. Note: the call is still open so the list is incomplete. Also some posters a
 * Anton Kolonin: _Aigents - Adaptive Personal Agents for Social Intelligence_
 * Anton Kolonin: _Distributed Knowledge Engineering and Evidence-based Knowledge Representation in Multi-Agent Systems	Information_
 * Olga L. Golitsyna, Nicolay Maksimov, Anton Okropishin and Olga Okropishina:	_Identification of Documentary Information Based on the Ontological Approach_
+* Vadim Savenkov and Gerhard Wohlgenannt:	_Similarity Metrics in Ontology Evolution_
 
 
 
