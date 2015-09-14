@@ -1,0 +1,8 @@
+---
+layout: post
+title: Tentative program announced
+---
+
+p<>. We have published the "tentative program":{{ site.url }}/program of KESW 2015. Changes are possible so please check back regularly.
+
+p<>. If you are a speaker and unable to attend to deliver your talk at your scheduled time, please contact the PC chair (Pavel Klinov) immediately.
