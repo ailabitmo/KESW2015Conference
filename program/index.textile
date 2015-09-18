@@ -44,7 +44,7 @@ table(#program).
 |(time). 15:20-16:30|(poster-session). Poster session|
 |(time). 16:30-18:00| Open Science and Education Section (moderated by Irina Radchenko)|
 |\2(day). Day III, October 2nd|
-|(time). 09:15-10:30|(keynote). Yuliya Tikhokhod: Machine readable semantic data right from content owner is a beautiful thing for semantic web world |
+|(time). 09:15-10:30|(keynote). Yuliya Tikhokhod: Machine readable semantic data right from content owner is a beautiful thing for Semantic Web world |
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: TBD |
 |/4(time). 11:00-12:40|(paper). Mikhail Galkin, Dmitry Mouromtsev and Sören Auer: Identifying Web Tables: Supporting a Neglected Type of Content on the Web |
