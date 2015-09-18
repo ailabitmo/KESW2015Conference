@@ -30,7 +30,7 @@ table(#program).
 |(poster). Gerhard Wohlgenannt and Stefan Belk: A Trend Detection Platform Based on Ontology Learning |
 |(poster). Vadim Savenkov and Gerhard Wohlgenannt: Similarity Metrics in Ontology Evolution |
 |\2(day). Day II, October 1st|
-|(time). 09:15-10:30|(keynote). Yuliya Tikhokhod: Machine readable semantic data right from content owner is a beautiful thing for semantic web world  |
+|(time). 09:15-10:30|(keynote). Erik Wilde: What Web of Things means for the Web  |
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: TBA |
 |/5(time). 11:00-12:30|(paper). Yuliya Rubtsova and Sergey Koshelnikov: Aspect Extraction from Reviews Using Conditional Random Fields |
@@ -44,7 +44,7 @@ table(#program).
 |(time). 15:20-16:30|(poster-session). Poster session|
 |(time). 16:30-18:00| Open Science and Education Section (moderated by Irina Radchenko)|
 |\2(day). Day III, October 2nd|
-|(time). 09:15-10:30|(keynote). Erik Wilde: What Web of Things means for the Web |
+|(time). 09:15-10:30|(keynote). Yuliya Tikhokhod: Machine readable semantic data right from content owner is a beautiful thing for semantic web world |
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: TBD |
 |/4(time). 11:00-12:40|(paper). Mikhail Galkin, Dmitry Mouromtsev and Sören Auer: Identifying Web Tables: Supporting a Neglected Type of Content on the Web |
