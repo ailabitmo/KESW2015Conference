@@ -39,7 +39,7 @@ table(#program).
 |(poster). Yuriy Milov and Alex Shkotin: Controlled Russian Language |
 |(poster). Olga L. Golitsyna, Nicolay Maksimov, Anton Okropishin and Olga Okropishina: Identification of Documentary Information Based on the Ontological Approach |
 |(time). 12:30-14:30|Lunch break|
-|/2(time). 14:30-15:20|(paper). Miguel Alves, Carlos Viegas Damásio and Nuno Correia: Gathering Photos from Social Networks Using Semantic Technologies |
+|/2(time). 14:30-15:20|(paper). Maria Saburova and Archil Maysuradze: A Low Effort Approach to Quantitative Content Analysis |
 |(paper). Anton Kolonin: Distributed Knowledge Engineering and Evidence-Based Knowledge Representation in Multi-Agent Systems |
 |(time). 15:20-16:30|(poster-session). Poster session|
 |(time). 16:30-18:00| Open Science and Education Section (moderated by Irina Radchenko)|
@@ -59,7 +59,7 @@ table(#program).
 |(paper). Vladislav Grozin, Natalia Gusarova and Natalia Dobrenko: Feature Selection for Language Independent Text Forum Summarization |
 |(time). 16:10-16:30|Coffee break|
 |\2(chair). Chair: Pavel Klinov|
-|/2(time). 16:30-17:30 |(paper). Maria Saburova and Archil Maysuradze: A Low Effort Approach to Quantitative Content Analysis |
+|/2(time). 16:30-17:30 |(paper). Miguel Alves, Carlos Viegas Damásio and Nuno Correia: Gathering Photos from Social Networks Using Semantic Technologies  |
 |(award). Awards and closing |
 
 p<. Legend:
