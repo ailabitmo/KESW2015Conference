@@ -18,10 +18,11 @@ table(#program).
 |(poster). Vladimir Kuznetcov, Vladimir Mochalov and Anastasia Mochalova: Question-answer system based on the ontological-semantic analyzer |
 |(time). 12:30-14:30|Lunch break|
 |\2(chair). Chair: TBD |
-|/4(time). 14:30-16:00|(paper). Claudia Bretschneider, Sonja Zillner and Heiner Oberkampfh: UIMA2LOD: Integrating UIMA Text Annotations into the Linked Open Data Cloud |
+|/5(time). 14:30-16:00|(paper). Claudia Bretschneider, Sonja Zillner and Heiner Oberkampfh: UIMA2LOD: Integrating UIMA Text Annotations into the Linked Open Data Cloud |
 |(paper). Ali Hasnain, Qaiser Mehmood, Syeda Sana E Zainab and Stefan Decker: A Provenance Assisted Roadmap for Life Sciences Linked Open Data Cloud |
 |(paper). Miguel Alves, Carlos Viegas Damásio and Nuno Correia: SPARQL Commands in Jena Rules |
 |(poster). Qingliang Miao, Lu Fang, Ruiyu Fang, Yao Meng and Jun Sun: Enhancing Academic Event Recommendation with Linked Data |
+|(poster). Alisa Zhila, Elena Yagunova and Olga Makarova	Bringing The Output of Open Information Extraction to The RDF/XML Format: A Case Study |
 |(time). 16:00-16:30|Coffee break|
 |\2(chair). Chair: TBD|
 |/5(time). 16:30-17:30|(paper). Igor Lashkov, Alexander Smirnov, Alexey Kashevnik and Vladimir Parfenov: Ontology-Based Approach and Implementation of ADAS System for Mobile Device Use While Driving |
