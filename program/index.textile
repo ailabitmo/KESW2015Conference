@@ -54,7 +54,7 @@ table(#program).
 |(paper). Vladimir Salin, Ivan Ermilov, René Speck, Sören Auer, Mariya Slastihina and Sergey Papshev: Semantic Clustering of Website Based on its Hypertext Structure |
 |(paper). Miguel Alves, Carlos Viegas Damásio and Nuno Correia: Extracting Metadata from Multimedia Content on Facebook as Media Annotations |
 |(time). 12:40-14:30|Lunch break|
-|\2(chair). Chair: TBD |
+|\2(chair). Chair: Irina Radchenko |
 |/4(time). 14:30-16:10|(paper). Danil Gizdatulin, Dmitry Ignatov, Ekaterina Mitrofanova and Anna Muratova: Pattern Mining and Machine Learning for Demographic Sequences |
 |(paper). Mikhail Kogalovsky and Sergey Parinov: Scholarly Communication in a Semantically Enrichable Research Information System with Embedded Taxonomy of Scientific Relationships |
 |(paper). Anton Kolonin: Aigents: Adaptive Personal Agents for Social Intelligence |
