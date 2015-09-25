@@ -3,7 +3,7 @@ layout: page
 title: The Program
 ---
 
-p<>. Best paper candidates are emphasized in bold.
+p<>. Best paper candidates are _emphasized_.
 
 table(#program).
 |\2(day). Day I, September 30th|
@@ -12,13 +12,13 @@ table(#program).
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: Pavel Klinov|
 |/5(time). 11:00-12:30|(paper). Darya Tarasowa, Christoph Lange and Sören Auer: Measuring the Quality of Relational-to-RDF Mappings |
-|(paper). *Efthymios Chondrogiannis, Vassiliki Andronikou, Efstathios Karanastasis and Theodora Varvarigou: An Advanced Query and Result Rewriting Mechanism for Information Retrieval Purposes from RDF Datasources* |
+|(paper). _Efthymios Chondrogiannis, Vassiliki Andronikou, Efstathios Karanastasis and Theodora Varvarigou: An Advanced Query and Result Rewriting Mechanism for Information Retrieval Purposes from RDF Datasources (best paper candidate)_ |
 |(paper). Martin Ledvinka and Petr Kremen: Object-UOBM: An Ontological Benchmark for Object-oriented Access |
 |(poster). Ruiyu Fang, Qingliang Miao, Lu Fang and Yao Meng: Linked Data Enrichment: A Case Study on Researcher Data Complement |
 |(poster). Vladimir Kuznetcov, Vladimir Mochalov and Anastasia Mochalova: Question-answer system based on the ontological-semantic analyzer |
 |(time). 12:30-14:30|Lunch break|
 |\2(chair). Chair: Markus Stocker |
-|/5(time). 14:30-16:00|(paper). *Claudia Bretschneider, Sonja Zillner and Heiner Oberkampfh: UIMA2LOD: Integrating UIMA Text Annotations into the Linked Open Data Cloud* |
+|/5(time). 14:30-16:00|(paper). Claudia Bretschneider, Sonja Zillner and Heiner Oberkampfh: _UIMA2LOD: Integrating UIMA Text Annotations into the Linked Open Data Cloud (best paper candidate)_ |
 |(paper). Ali Hasnain, Qaiser Mehmood, Syeda Sana E Zainab and Stefan Decker: A Provenance Assisted Roadmap for Life Sciences Linked Open Data Cloud |
 |(paper). Miguel Alves, Carlos Viegas Damásio and Nuno Correia: SPARQL Commands in Jena Rules |
 |(poster). Qingliang Miao, Lu Fang, Ruiyu Fang, Yao Meng and Jun Sun: Enhancing Academic Event Recommendation with Linked Data |
@@ -49,7 +49,7 @@ table(#program).
 |(time). 09:15-10:30|(keynote). Yuliya Tikhokhod: Machine readable semantic data right from content owner is a beautiful thing for Semantic Web world |
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: Yuliya Tikhokhod |
-|/4(time). 11:00-12:40|(paper). *Mikhail Galkin, Dmitry Mouromtsev and Sören Auer: Identifying Web Tables: Supporting a Neglected Type of Content on the Web* |
+|/4(time). 11:00-12:40|(paper). _Mikhail Galkin, Dmitry Mouromtsev and Sören Auer: Identifying Web Tables: Supporting a Neglected Type of Content on the Web (best paper candidate)_ |
 |(paper). Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev: Ontologies for Web of Things: a Pragmatic Review |
 |(paper). Vladimir Salin, Ivan Ermilov, René Speck, Sören Auer, Mariya Slastihina and Sergey Papshev: Semantic Clustering of Website Based on its Hypertext Structure |
 |(paper). Miguel Alves, Carlos Viegas Damásio and Nuno Correia: Extracting Metadata from Multimedia Content on Facebook as Media Annotations |
