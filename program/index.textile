@@ -74,8 +74,8 @@ table(legend#program).
 
 p<>. The following three papers have been selected for the final round of the Best Paper competition. The winner will be announced at the Award and Closing ceremony.
 
+* Efthymios Chondrogiannis, Vassiliki Andronikou, Efstathios Karanastasis and Theodora Varvarigou: _An Advanced Query and Result Rewriting Mechanism for Information Retrieval Purposes from RDF Datasources_
 * Claudia Bretschneider, Sonja Zillner and Heiner Oberkampfh: _UIMA2LOD: Integrating UIMA Text Annotations into the Linked Open Data Cloud_
 * Mikhail Galkin, Dmitry Mouromtsev and Sören Auer: _Identifying Web Tables: Supporting a Neglected Type of Content on the Web_
-* Efthymios Chondrogiannis, Vassiliki Andronikou, Efstathios Karanastasis and Theodora Varvarigou: _An Advanced Query and Result Rewriting Mechanism for Information Retrieval Purposes from RDF Datasources_
 
 
