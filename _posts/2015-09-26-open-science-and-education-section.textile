@@ -3,7 +3,7 @@ layout: post
 title: Open Science & Education Section Program 
 ---
 
-p<>. Similar to the previous year, at the second day we organize the Open Science and Education Section, where we welcome everybody to talk and share thoughts on this topic. There'll be a few presentations at the beginning and panel discussions at the end.
+p<>. Similar to the previous year, the second day will feature the Open Science and Education Section, where we welcome everybody to talk and share thoughts on this and relevant topics. There'll be a couple of presentations at the beginning and a panel discussion at the end.
 
 p<>. Program:
 
@@ -11,4 +11,4 @@ p<>. Program:
 * _Main Trends in Open Science and Open Education_ by Irina Radchenko,
 * Panel Discussions on Open Science and Education working tools.
 
-p<>. If you want to make a presentation on this section, please contact Irina Radchenko (iradche@gmail.com) and the PC chair (Pavel Klinov) as soon as possible.
+p<>. If you want to make a presentation at this section, please contact Irina Radchenko (iradche@gmail.com) and the PC chair (Pavel Klinov) as soon as possible.
