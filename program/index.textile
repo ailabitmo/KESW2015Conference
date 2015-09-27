@@ -44,7 +44,7 @@ table(#program).
 |/2(time). 14:30-15:20|(paper). Maria Saburova and Archil Maysuradze: A Low Effort Approach to Quantitative Content Analysis |
 |(paper). Anton Kolonin: Distributed Knowledge Engineering and Evidence-Based Knowledge Representation in Multi-Agent Systems |
 |(time). 15:20-16:30|(poster-session). Poster session|
-|(time). 16:30-18:00| Open Science and Education Section (moderated by Irina Radchenko)|
+|(time). 16:30-18:00| "Open Science and Education Section":/2015/09/26/open-science-and-education-section.html <br/> (moderated by Irina Radchenko) |
 |\2(day). Day III, October 2nd|
 |(time). 09:15-10:30|(keynote). Yuliya Tikhokhod: Machine readable semantic data right from content owner is a beautiful thing for Semantic Web world |
 |(time). 10:30-11:00|Coffee break|

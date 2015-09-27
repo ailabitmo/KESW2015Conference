@@ -13,7 +13,7 @@ p=. Moscow, Russia
     <p><strong>Latest news:</strong></p>
     <ul class="news">
     {% for post in site.posts limit: 3 %}
-        <li {%if forloop.index0 < 1 %}class="highlighted"{%endif%}>
+        <li>
             {{ post.date | date: "%-d %B %Y" }}
             <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
