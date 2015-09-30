@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proceedings are available online
+title: Proceedings is available online
 ---
 
 p<>. The proceedings of the conference became available online as 518th volume of CCIS series published by Springer. The proceedings is avalaible at "Springer Link":http://link.springer.com/book/10.1007/978-3-319-24543-0.
