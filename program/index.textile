@@ -31,8 +31,8 @@ table(#program).
 |(paper). Sergey Parinov, Mikhail Kogalovsky, Victor Lyapunov and Roman Puzyrev: Semantically Enrichable Research Information System SocioNet |
 |(poster). Vadim Savenkov and Gerhard Wohlgenannt: Similarity Metrics in Ontology Evolution |
 |\2(day). Day II, October 1st|
-|/2(time). 09:00-10:30|(keynote). Erik Wilde: What Web of Things means for the Web  |
-|(poster).  Nikolay Klimov, Maxim Kolchin, Alexey Andreev, Daniil Garayzuev and Ivan Shilin: "Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper":/resources/semdesc_helper.pdf  |
+|/2(time). 09:00-10:30|(keynote). Erik Wilde: "What Web of Things means for the Web":http://dret.net/lectures/kesw2015/  |
+|(poster).  Nikolay Klimov, Maxim Kolchin, Alexey Andreev, Daniil Garayzuev and Ivan Shilin: Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper":/resource/semdesc_helper.pdf  |
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: TBA |
 |/5(time). 11:00-12:30|(paper). Yuliya Rubtsova and Sergey Koshelnikov: Aspect Extraction from Reviews Using Conditional Random Fields |
@@ -47,23 +47,21 @@ table(#program).
 |(time). 15:20-16:30|(poster-session). Poster session|
 |(time). 16:30-18:00| "Open Science and Education Section":/2015/09/26/open-science-and-education-section.html <br/> (moderated by Irina Radchenko) |
 |\2(day). Day III, October 2nd|
-|(time). 09:15-10:30|(keynote). Yuliya Tikhokhod: Machine readable semantic data right from content owner is a beautiful thing for Semantic Web world |
+|(time). 09:30-10:30|(keynote). Dmitry Ignatov: Formal Concept Analysis and its applications |
 |(time). 10:30-11:00|Coffee break|
-|\2(chair). Chair: Yuliya Tikhokhod |
+|\2(chair). Chair: Pavel Klinov |
 |/4(time). 11:00-12:40|(paper). _Mikhail Galkin, Dmitry Mouromtsev and Sören Auer: Identifying Web Tables: Supporting a Neglected Type of Content on the Web (best paper candidate)_ |
 |(paper). Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev: Ontologies for Web of Things: a Pragmatic Review |
 |(paper). Vladimir Salin, Ivan Ermilov, René Speck, Sören Auer, Mariya Slastihina and Sergey Papshev: Semantic Clustering of Website Based on its Hypertext Structure |
-|(paper). Miguel Alves, Carlos Viegas Damásio and Nuno Correia: Extracting Metadata from Multimedia Content on Facebook as Media Annotations |
+|(paper). Liubov Kovriguina Building Ontology of Linguistic Metadata from V.A.Tuzov Semantic Dictionary |
 |(time). 12:40-14:30|Lunch break|
 |\2(chair). Chair: Irina Radchenko |
 |/4(time). 14:30-16:10|(paper). Danil Gizdatulin, Dmitry Ignatov, Ekaterina Mitrofanova and Anna Muratova: Pattern Mining and Machine Learning for Demographic Sequences |
 |(paper). Mikhail Kogalovsky and Sergey Parinov: Scholarly Communication in a Semantically Enrichable Research Information System with Embedded Taxonomy of Scientific Relationships |
 |(paper). Anton Kolonin: Aigents: Adaptive Personal Agents for Social Intelligence |
 |(paper). Vladislav Grozin, Natalia Gusarova and Natalia Dobrenko: Feature Selection for Language Independent Text Forum Summarization |
-|(time). 16:10-16:30|Coffee break|
 |\2(chair). Chair: Pavel Klinov|
-|/2(time). 16:30-17:30 |(paper). Miguel Alves, Carlos Viegas Damásio and Nuno Correia: Gathering Photos from Social Networks Using Semantic Technologies  |
-|(award). Awards and closing |
+|/2(time). 16:10-16:15 |(award). Awards and closing  |
 
 p<. Legend:
 
