@@ -31,7 +31,7 @@ table(#program).
 |(paper). Sergey Parinov, Mikhail Kogalovsky, Victor Lyapunov and Roman Puzyrev: Semantically Enrichable Research Information System SocioNet |
 |(poster). Vadim Savenkov and Gerhard Wohlgenannt: Similarity Metrics in Ontology Evolution |
 |\2(day). Day II, October 1st|
-|/2(time). 09:00-10:30|(keynote). Erik Wilde: What Web of Things means for the Web  |
+|/2(time). 09:00-10:30|(keynote). Erik Wilde: "What Web of Things means for the Web":http://dret.net/lectures/kesw2015/  |
 |(poster).  Nikolay Klimov, Maxim Kolchin, Alexey Andreev, Daniil Garayzuev and Ivan Shilin: Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper  |
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: TBA |
