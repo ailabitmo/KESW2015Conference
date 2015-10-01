@@ -61,7 +61,7 @@ table(#program).
 |(paper). Anton Kolonin: Aigents: Adaptive Personal Agents for Social Intelligence |
 |(paper). Vladislav Grozin, Natalia Gusarova and Natalia Dobrenko: Feature Selection for Language Independent Text Forum Summarization |
 |\2(chair). Chair: Pavel Klinov|
-|/2(time). 16:00-16:15 |(award). Awards and closing  |
+|/2(time). 16:10-16:15 |(award). Awards and closing  |
 
 p<. Legend:
 
