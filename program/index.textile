@@ -32,7 +32,7 @@ table(#program).
 |(poster). Vadim Savenkov and Gerhard Wohlgenannt: Similarity Metrics in Ontology Evolution |
 |\2(day). Day II, October 1st|
 |/2(time). 09:00-10:30|(keynote). Erik Wilde: "What Web of Things means for the Web":http://dret.net/lectures/kesw2015/  |
-|(poster).  Nikolay Klimov, Maxim Kolchin, Alexey Andreev, Daniil Garayzuev and Ivan Shilin: Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper":/resource/semdesc_helper.pdf  |
+|(poster).  Nikolay Klimov, Maxim Kolchin, Alexey Andreev, Daniil Garayzuev and Ivan Shilin: Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper":http://2015.kesw.ru/resources/semdesc_helper.pdf  |
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: TBA |
 |/5(time). 11:00-12:30|(paper). Yuliya Rubtsova and Sergey Koshelnikov: Aspect Extraction from Reviews Using Conditional Random Fields |
