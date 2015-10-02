@@ -51,7 +51,7 @@ table(#program).
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: Pavel Klinov |
 |/4(time). 11:00-12:40|(paper). _Mikhail Galkin, Dmitry Mouromtsev and Sören Auer: Identifying Web Tables: Supporting a Neglected Type of Content on the Web (best paper candidate)_ |
-|(paper). Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev: Ontologies for Web of Things: a Pragmatic Review |
+|(paper). Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev: "Ontologies for Web of Things: a Pragmatic Review":http://2015.kesw.ru/resources/papers/Ontologies_for_Web_of_Things_A_Pragmatic_Review.pdf |
 |(paper). Vladimir Salin, Ivan Ermilov, René Speck, Sören Auer, Mariya Slastihina and Sergey Papshev: Semantic Clustering of Website Based on its Hypertext Structure |
 |(paper). Liubov Kovriguina Building Ontology of Linguistic Metadata from V.A.Tuzov Semantic Dictionary |
 |(time). 12:40-14:30|Lunch break|
