@@ -1,0 +1,32 @@
+---
+layout: post
+title: Finalist of the Best Paper Competition announced
+---
+
+p<>. Each year, at the first day of the conference we announce three best paper candidates selected based on the marks from the program committee. And at the end the program chair announces who is from the best paper candidates took 1st, 2d and 3d place. Below are the candidates and their places.
+
+h2. 1st place
+
+p<>. Aaaannnd...the first place in the Best Paper Competition goes to Claudia Bretschneider, Sonja Zillner and Heiner Oberkampfh from "University Munich":http://www.en.uni-muenchen.de/index.html, "Siemens AG":http://www.siemens.com and "Steinbeis University":http://www.steinbeis.de/en/  with the paper "UIMA2LOD: Integrating UIMA Text Annotations into the Linked Open Data Cloud"! Congratulations!
+
+<center>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Claudia Bretschneider et al. (<a href="http://t.co/MF1OtX49LD">http://t.co/MF1OtX49LD</a>) got the 1st place in the Best Paper Competition <a href="https://twitter.com/hashtag/kesw2015?src=hash">#kesw2015</a> <a href="http://t.co/I8Faq51PAv">pic.twitter.com/I8Faq51PAv</a></p>&mdash; KESW Conference (@keswconference) <a href="https://twitter.com/keswconference/status/650704522986319872">October 4, 2015</a></blockquote>
+</center>
+
+h2. 2d place
+
+p<>. The second best paper is "Identifying Web Tables: Supporting a Neglected Type of Content on the Web" written by Mikhail Galkin, Dmitry Mouromtsev and Sören Auer from "ITMO University":http://en.ifmo.ru/ and "University of Bonn":http://www3.uni-bonn.de/news-1?set_language=en. Congratulations to the authors!
+
+<center>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Mikhail Galkin et al. (<a href="http://t.co/8NJK2sXBOC">http://t.co/8NJK2sXBOC</a>) got the 2d place in the Best Paper Competition <a href="https://twitter.com/hashtag/kesw2015?src=hash">#kesw2015</a> <a href="http://t.co/0APmijX3Mq">pic.twitter.com/0APmijX3Mq</a></p>&mdash; KESW Conference (@keswconference) <a href="https://twitter.com/keswconference/status/650704159361105920">October 4, 2015</a></blockquote>
+</center>
+
+h2. 3d place
+
+p<>. The third place is "An Advanced Query and Result Rewriting Mechanism for Information Retrieval Purposes from RDF Datasources" paper written by Efthymios Chondrogiannis, Vassiliki Andronikou, Efstathios Karanastasis and Theodora Varvarigou from "National Technical University of Athens":http://www.ntua.gr/index_en.html. Congratulations to the authors!
+
+<center>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Efthymios Chondrogiannis et al. (<a href="http://t.co/sk276kDTPp">http://t.co/sk276kDTPp</a>) got the 3d place in the Best Paper Competition <a href="https://twitter.com/hashtag/kesw2015?src=hash">#kesw2015</a> <a href="http://t.co/iZPr3mPrgt">pic.twitter.com/iZPr3mPrgt</a></p>&mdash; KESW Conference (@keswconference) <a href="https://twitter.com/keswconference/status/650703710113374208">October 4, 2015</a></blockquote>
+</center>
+
+p<>. Congratulations to the best paper winners again! Also organizers want to thank the program committee for their great job!

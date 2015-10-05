@@ -7,61 +7,61 @@ p<>. Best paper candidates are _emphasized_.
 
 table(#program).
 |\2(day). Day I, September 30th|
-|(time). 09:00-09:15|Welcome introduction|
-|(time). 09:15-10:30|(keynote). Markus Stocker: Knowledge-based environmental research infrastructure with Semantic Web technologies |
+|(time). 09:00-09:15|"Welcome introduction":/resources/papers/opening.pdf|
+|(time). 09:15-10:30|(keynote). Markus Stocker: "Knowledge-based environmental research infrastructure with Semantic Web technologies":/resources/papers/stocker15kesw.pdf |
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: Pavel Klinov|
-|/5(time). 11:00-12:30|(paper). Darya Tarasowa, Christoph Lange and Sören Auer: Measuring the Quality of Relational-to-RDF Mappings |
-|(paper). _Efthymios Chondrogiannis, Vassiliki Andronikou, Efstathios Karanastasis and Theodora Varvarigou: An Advanced Query and Result Rewriting Mechanism for Information Retrieval Purposes from RDF Datasources (best paper candidate)_ |
-|(paper). Martin Ledvinka and Petr Kremen: Object-UOBM: An Ontological Benchmark for Object-oriented Access |
+|/5(time). 11:00-12:30|(paper). Darya Tarasowa, Christoph Lange and Sören Auer: Measuring the Quality of Relational-to-RDF Mappings ["slides":http://slidewiki.org/deck/12206_measuring-the-quality-of-relational-to-rdf-mappings#tree-0-deck-12206-1-view, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_16] |
+|(paper). _Efthymios Chondrogiannis, Vassiliki Andronikou, Efstathios Karanastasis and Theodora Varvarigou: An Advanced Query and Result Rewriting Mechanism for Information Retrieval Purposes from RDF Datasources (third best paper)_ ["slides":/resources/papers/Chondrogiannis-Efthymios--PaperID-24-KESW-2015-Presentation-v.1.0.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_3] |
+|(paper). Martin Ledvinka and Petr Kremen: Object-UOBM: An Ontological Benchmark for Object-oriented Access ["slides":/resources/papers/15kesw-ledvinka.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_10] |
 |(poster). Ruiyu Fang, Qingliang Miao, Lu Fang and Yao Meng: Linked Data Enrichment: A Case Study on Researcher Data Complement |
 |(poster). Vladimir Kuznetcov, Vladimir Mochalov and Anastasia Mochalova: Question-answer system based on the ontological-semantic analyzer |
 |(time). 12:30-14:30|Lunch break|
 |\2(chair). Chair: Markus Stocker |
-|/6(time). 14:30-16:00|(paper). Claudia Bretschneider, Sonja Zillner and Heiner Oberkampfh: _UIMA2LOD: Integrating UIMA Text Annotations into the Linked Open Data Cloud (best paper candidate)_ |
-|(paper). Ali Hasnain, Qaiser Mehmood, Syeda Sana E Zainab and Stefan Decker: A Provenance Assisted Roadmap for Life Sciences Linked Open Data Cloud |
-|(paper). Miguel Alves, Carlos Viegas Damásio and Nuno Correia: SPARQL Commands in Jena Rules |
+|/6(time). 14:30-16:00|(paper). Claudia Bretschneider, Sonja Zillner and Heiner Oberkampfh: _UIMA2LOD: Integrating UIMA Text Annotations into the Linked Open Data Cloud (first best paper)_ ["slides":/resources/papers/KESW_UIMA2LOD_Claudia_Bretschneider.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_2]|
+|(paper). Ali Hasnain, Qaiser Mehmood, Syeda Sana E Zainab and Stefan Decker: A Provenance Assisted Roadmap for Life Sciences Linked Open Data Cloud ["slides":/resources/papers/Presentation.pptx,"paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_6]|
+|(paper). Miguel Alves, Carlos Viegas Damásio and Nuno Correia: SPARQL Commands in Jena Rules ==[=="paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_19] |
 |(poster). Gerhard Wohlgenannt and Stefan Belk: A Trend Detection Platform Based on Ontology Learning |
 |(poster). Qingliang Miao, Lu Fang, Ruiyu Fang, Yao Meng and Jun Sun: Enhancing Academic Event Recommendation with Linked Data |
 |(poster). Alisa Zhila, Elena Yagunova and Olga Makarova	Bringing The Output of Open Information Extraction to The RDF/XML Format: A Case Study |
 |(time). 16:00-16:30|Coffee break|
 |\2(chair). Chair: Maxim Kolchin |
-|/4(time). 16:30-18:00|(paper). Igor Lashkov, Alexander Smirnov, Alexey Kashevnik and Vladimir Parfenov: Ontology-Based Approach and Implementation of ADAS System for Mobile Device Use While Driving |
-|(paper). Maksim Hegai, Dmitrii Zubok and Aleksandr Maiatin: Ontology-based Approach to Scheduling of Jobs Processed by Applications Running in Virtual Environments |
-|(paper). Sergey Parinov, Mikhail Kogalovsky, Victor Lyapunov and Roman Puzyrev: Semantically Enrichable Research Information System SocioNet |
+|/4(time). 16:30-18:00|(paper). Igor Lashkov, Alexander Smirnov, Alexey Kashevnik and Vladimir Parfenov: Ontology-Based Approach and Implementation of ADAS System for Mobile Device Use While Driving ["slides":/resources/papers/LashkovIB_KESW_edited.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_9]|
+|(paper). Maksim Hegai, Dmitrii Zubok and Aleksandr Maiatin: Ontology-based Approach to Scheduling of Jobs Processed by Applications Running in Virtual Environments ["slides":/resources/papers/Ontology-based+approach+in+the+scheduling+of+jobs+processed.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_21] |
+|(paper). Sergey Parinov, Mikhail Kogalovsky, Victor Lyapunov and Roman Puzyrev: Semantically Enrichable Research Information System SocioNet ["slides":/resources/papers/KESW-4authors-2015.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_11]|
 |(poster). Vadim Savenkov and Gerhard Wohlgenannt: Similarity Metrics in Ontology Evolution |
 |\2(day). Day II, October 1st|
 |/2(time). 09:00-10:30|(keynote). Erik Wilde: "What Web of Things means for the Web":http://dret.net/lectures/kesw2015/  |
-|(poster).  Nikolay Klimov, Maxim Kolchin, Alexey Andreev, Daniil Garayzuev and Ivan Shilin: "Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper":http://2015.kesw.ru/resources/semdesc_helper.pdf  |
+|(poster).  Nikolay Klimov, Maxim Kolchin, Alexey Andreev, Daniil Garayzuev and Ivan Shilin: Creating RDF-descriptions for Web of Things devices using WoT SemDesc Helper  |
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: TBA |
-|/5(time). 11:00-12:30|(paper). Yuliya Rubtsova and Sergey Koshelnikov: Aspect Extraction from Reviews Using Conditional Random Fields |
-|(paper). Nikita Senderovich and Archil Maysuradze: Interactive Coding of Responses to Open-Ended Questions in Russian |
-|(paper). Kirill Boyarsky, Natalia Gusarova, Galina Artemova, Natalia Dobrenko, Natalia Avdeeva and Eugeny Kanevsky: Subtopic Segmentation of Scientific Texts: Parameter Optimisation |
+|/5(time). 11:00-12:30|(paper). Yuliya Rubtsova and Sergey Koshelnikov: Aspect Extraction from Reviews Using Conditional Random Fields ["slides":/resources/papers/KESW-2015-camera-ready.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_12] |
+|(paper). Nikita Senderovich and Archil Maysuradze: Interactive Coding of Responses to Open-Ended Questions in Russian ["slides":/resources/papers/InteractiveCoding.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_15] |
+|(paper). Kirill Boyarsky, Natalia Gusarova, Galina Artemova, Natalia Dobrenko, Natalia Avdeeva and Eugeny Kanevsky: Subtopic Segmentation of Scientific Texts: Parameter Optimisation ["slides":/resources/papers/Boyarsky_Avdeeva_kesw2015.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_1]|
 |(poster). Yuriy Milov and Alex Shkotin: Controlled Russian Language |
 |(poster). Olga L. Golitsyna, Nicolay Maksimov, Anton Okropishin and Olga Okropishina: Identification of Documentary Information Based on the Ontological Approach |
 |(time). 12:30-14:30|Lunch break|
 |\2(chair). Chair: Yuliya Rubtsova |
-|/2(time). 14:30-15:20|(paper). Maria Saburova and Archil Maysuradze: A Low Effort Approach to Quantitative Content Analysis |
-|(paper). Anton Kolonin: Distributed Knowledge Engineering and Evidence-Based Knowledge Representation in Multi-Agent Systems |
+|/2(time). 14:30-15:20|(paper). Maria Saburova and Archil Maysuradze: A Low Effort Approach to Quantitative Content Analysis ["slides":/resources/papers/Saburova_quantitative-content-analysis.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_13] |
+|(paper). Anton Kolonin: Distributed Knowledge Engineering and Evidence-Based Knowledge Representation in Multi-Agent Systems ["slides":/resources/papers/Distributed-and-social-evidence-based-Kolonin-2015-slides-kesw.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_23]|
 |(time). 15:20-16:30|(poster-session). Poster session|
 |(time). 16:30-18:00| "Open Science and Education Section":/2015/09/26/open-science-and-education-section.html <br/> (moderated by Irina Radchenko) |
 |\2(day). Day III, October 2nd|
 |(time). 09:30-10:30|(keynote). Dmitry Ignatov: Formal Concept Analysis and its applications |
 |(time). 10:30-11:00|Coffee break|
 |\2(chair). Chair: Pavel Klinov |
-|/4(time). 11:00-12:40|(paper). _Mikhail Galkin, Dmitry Mouromtsev and Sören Auer: Identifying Web Tables: Supporting a Neglected Type of Content on the Web (best paper candidate)_ |
-|(paper). Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev: "Ontologies for Web of Things: a Pragmatic Review":http://2015.kesw.ru/resources/papers/Ontologies_for_Web_of_Things_A_Pragmatic_Review.pdf |
-|(paper). Vladimir Salin, Ivan Ermilov, René Speck, Sören Auer, Mariya Slastihina and Sergey Papshev: Semantic Clustering of Website Based on its Hypertext Structure |
-|(paper). Liubov Kovriguina Building Ontology of Linguistic Metadata from V.A.Tuzov Semantic Dictionary |
+|/4(time). 11:00-12:40|(paper). _Mikhail Galkin, Dmitry Mouromtsev and Sören Auer: Identifying Web Tables: Supporting a Neglected Type of Content on the Web (best paper candidate)_ ["slides":/resources/papers/KESW2015_Galkin.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_4] |
+|(paper). Maxim Kolchin, Nikolay Klimov, Alexey Andreev, Ivan Shilin, Daniil Garayzuev, Dmitry Mouromtsev and Danil Zakoldaev: Ontologies for Web of Things: a Pragmatic Review ["slides":/resources/papers/Ontologies_for_Web_of_Things_A_Pragmatic_Review.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_8] |
+|(paper). Vladimir Salin, Ivan Ermilov, René Speck, Sören Auer, Mariya Slastihina and Sergey Papshev: Semantic Clustering of Website Based on its Hypertext Structure ==[=="paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_14] |
+|(poster). Liubov Kovriguina Building Ontology of Linguistic Metadata from V.A.Tuzov Semantic Dictionary |
 |(time). 12:40-14:30|Lunch break|
 |\2(chair). Chair: Irina Radchenko |
-|/4(time). 14:30-16:10|(paper). Danil Gizdatulin, Dmitry Ignatov, Ekaterina Mitrofanova and Anna Muratova: Pattern Mining and Machine Learning for Demographic Sequences |
-|(paper). Mikhail Kogalovsky and Sergey Parinov: Scholarly Communication in a Semantically Enrichable Research Information System with Embedded Taxonomy of Scientific Relationships |
-|(paper). Anton Kolonin: Aigents: Adaptive Personal Agents for Social Intelligence |
-|(paper). Vladislav Grozin, Natalia Gusarova and Natalia Dobrenko: Feature Selection for Language Independent Text Forum Summarization |
+|/4(time). 14:30-16:10|(paper). Danil Gizdatulin, Dmitry Ignatov, Ekaterina Mitrofanova and Anna Muratova: Pattern Mining and Machine Learning for Demographic Sequences ==[=="paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_17]|
+|(paper). Mikhail Kogalovsky and Sergey Parinov: Scholarly Communication in a Semantically Enrichable Research Information System with Embedded Taxonomy of Scientific Relationships ==[=="paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_7]|
+|(paper). Anton Kolonin: Aigents: Adaptive Personal Agents for Social Intelligence ["slides":/resources/papers/Aigents-Adaptive-Social-Intelligence-Kolonin-2015-slides-kesw.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_22] |
+|(paper). Vladislav Grozin, Natalia Gusarova and Natalia Dobrenko: Feature Selection for Language Independent Text Forum Summarization ["slides":/resources/papers/Grozin.pdf, "paper":http://link.springer.com/chapter/10.1007/978-3-319-24543-0_5] |
 |\2(chair). Chair: Pavel Klinov|
-|/2(time). 16:10-16:15 |(award). Awards and closing  |
+|/2(time). 16:10-16:15 |(award). "Awards and closing":/resources/papers/closing.pdf  |
 
 p<. Legend:
 
